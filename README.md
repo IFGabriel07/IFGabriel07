@@ -1,16 +1,17 @@
-# Olá! 👋 Bem-vindo ao meu perfil no GitHub!
+# Olá! 👋
 
-💻 Full Stack Developer | React & JavaScript  
+Sou Técnico em Informática pelo IFAL e atualmente estou no 1º período de Bacharelado em Sistemas de Informação.
+
+Tenho interesse em desenvolvimento web, React, JavaScript e UX/UI. Também possuo experiência com pesquisa acadêmica.
+
+Estou no início da minha formação e busco constantemente aprender, desenvolver novas habilidades e evoluir na área de tecnologia.
+
+💻 Desenvolvimento Web  
+⚛️ React & JavaScript  
 🎨 UX/UI Design  
-🔬 Academic Research • IFAL
+🔬 Experiência em pesquisa acadêmica
 
-## 🚀 Sobre mim
-
-Sou Técnico em Informática pelo IFAL e atualmente curso Bacharelado em Sistemas de Informação.
-
-Tenho interesse em desenvolvimento web, tecnologia, UX/UI e pesquisa acadêmica, buscando sempre evoluir meus conhecimentos e transformar ideias em projetos.
-
-## 💻 Tech Stack
+## Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,13 +19,12 @@ Tenho interesse em desenvolvimento web, tecnologia, UX/UI e pesquisa acadêmica,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📌 Projetos
+## Projetos
 
-- 🌐 Desenvolvimento Web
-- ⚛️ Aplicações com React
-- 🎨 Projetos de UX/UI
-- 🔬 Projetos de pesquisa acadêmica
+- Desenvolvimento Web
+- Aplicações com React
+- Projetos de UX/UI
 
-## 🌎 Onde me encontrar
+## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfelipe-dev)
+[LinkedIn](https://www.linkedin.com/in/gabrielfelipe-dev) · [ORCID](https://orcid.org/0009-0004-7690-3174)
