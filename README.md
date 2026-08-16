@@ -24,6 +24,6 @@ Estou no início da minha formação e busco constantemente aprender, desenvolve
 - Aplicações com React
 - Projetos de UX/UI
 
-## Contato
+## Perfis
 
-[LinkedIn](https://www.linkedin.com/in/gabrielfelipe-dev) · [ORCID](https://orcid.org/0009-0004-7690-3174)
+[Lattes](https://lattes.cnpq.br/7297242074318091) · [LinkedIn](https://www.linkedin.com/in/gabrielfelipe-dev) · [ORCID](https://orcid.org/0009-0004-7690-3174)
