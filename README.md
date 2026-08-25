@@ -1,14 +1,14 @@
 # Olá! 👋
 
 Sou Técnico em Informática pelo IFAL e atualmente estou no 1º período do Bacharelado em Sistemas de Informação pela mesma instituição.
-Tenho interesse em desenvolvimento web, React, JavaScript e UX/UI. Também possuo experiência com pesquisa acadêmica.
+Tenho interesse em desenvolvimento web, React, JavaScript e UX/UI. 
 
 Estou no início da minha formação e busco constantemente aprender, desenvolver novas habilidades e evoluir na área de tecnologia.
 
 💻 Desenvolvimento Web  
 ⚛️ React & JavaScript  
 🎨 UX/UI Design  
-🔬 Experiência em pesquisa acadêmica
+
 
 ## Tecnologias
 
